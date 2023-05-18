@@ -1,7 +1,6 @@
 # Pharmacy_Management_System
 This is a C program that operates on medicine data to develop a
-simple pharmacy management system . The program is made on
-Code Blocks ; the program allows the user to build a database for
+simple pharmacy management system . it allows users to build a database for
 medicine stock in a pharmacy. The program allows the user to: add,
 delete, update, show, sell and get information about the medicine in
 stock.
